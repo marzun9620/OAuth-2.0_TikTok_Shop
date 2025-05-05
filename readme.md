@@ -1,3 +1,4 @@
+```
 src/
 ├── gateway/
 │   └── tiktok.ts
@@ -8,3 +9,5 @@ src/
 ├── config/
 │   └── tiktok.ts
 ├── main.ts
+
+```
