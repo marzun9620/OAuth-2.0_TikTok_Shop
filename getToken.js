@@ -19,7 +19,7 @@ async function getToken() {
     });
 
     accessToken = response.data.access_token;
-
+    console.log("Access Token:", response.data.access_token);
     console.log("Token fetched successfully");
     return accessToken;
   } catch (error) {
